@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f6b04fe5bca9e463dac21f406c6cd716
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bein_fuss_oben.L
+    100002: bein_fuss_oben.R
+    100004: bein_fuss_oben_IK.L
+    100006: bein_fuss_oben_IK.L_end
+    100008: bein_fuss_oben_IK.R
+    100010: bein_fuss_oben_IK.R_end
+    100012: bein_fuss_spitze.L
+    100014: bein_fuss_spitze.L_end
+    100016: bein_fuss_spitze.R
+    100018: bein_fuss_spitze.R_end
+    100020: bein_gelenk.L
+    100022: bein_gelenk.L_end
+    100024: bein_gelenk.R
+    100026: bein_gelenk.R_end
+    100028: bein_mitte.L
+    100030: bein_mitte.R
+    100032: bein_oben.L
+    100034: bein_oben.R
+    100036: Camera
+    100038: fluegel_gelenk.L
+    100040: fluegel_gelenk.L_end
+    100042: fluegel_gelenk.R
+    100044: fluegel_gelenk.R_end
+    100046: fluegel_mitte.L
+    100048: fluegel_mitte.R
+    100050: fluegel_oben.L
+    100052: fluegel_oben.R
+    100054: fluegel_spitze.L
+    100056: fluegel_spitze.R
+    100058: fluegel_spitze_IK.L
+    100060: fluegel_spitze_IK.L_end
+    100062: fluegel_spitze_IK.R
+    100064: fluegel_spitze_IK.R_end
+    100066: hauptbone
+    100068: Hemi
+    100070: koerper_halz
+    100072: koerper_kopf
+    100074: koerper_kopf.IK
+    100076: koerper_kopf.IK_end
+    100078: koerper_kopf_end
+    100080: koerper_mitte
+    100082: Lamp
+    100084: moewe
+    100086: moewe_armature
+    100088: schwanz_spitze
+    100090: schwanz_spitze.IK
+    100092: schwanz_spitze.IK_end
+    100094: schwanz_spitze.L
+    100096: schwanz_spitze.L_end
+    100098: schwanz_spitze.R
+    100100: schwanz_spitze.R_end
+    100102: schwanz_unten
+    100104: shape_fluegel.L
+    100106: shape_fluegel.R
+    100108: shape_fuss
+    100110: shape_gelenk
+    100112: shape_hauptbone
+    100114: shape_koeper
+    100116: shape_kopf
+    100118: shape_schwanz
+    100120: //RootNode
+    400000: bein_fuss_oben.L
+    400002: bein_fuss_oben.R
+    400004: bein_fuss_oben_IK.L
+    400006: bein_fuss_oben_IK.L_end
+    400008: bein_fuss_oben_IK.R
+    400010: bein_fuss_oben_IK.R_end
+    400012: bein_fuss_spitze.L
+    400014: bein_fuss_spitze.L_end
+    400016: bein_fuss_spitze.R
+    400018: bein_fuss_spitze.R_end
+    400020: bein_gelenk.L
+    400022: bein_gelenk.L_end
+    400024: bein_gelenk.R
+    400026: bein_gelenk.R_end
+    400028: bein_mitte.L
+    400030: bein_mitte.R
+    400032: bein_oben.L
+    400034: bein_oben.R
+    400036: Camera
+    400038: fluegel_gelenk.L
+    400040: fluegel_gelenk.L_end
+    400042: fluegel_gelenk.R
+    400044: fluegel_gelenk.R_end
+    400046: fluegel_mitte.L
+    400048: fluegel_mitte.R
+    400050: fluegel_oben.L
+    400052: fluegel_oben.R
+    400054: fluegel_spitze.L
+    400056: fluegel_spitze.R
+    400058: fluegel_spitze_IK.L
+    400060: fluegel_spitze_IK.L_end
+    400062: fluegel_spitze_IK.R
+    400064: fluegel_spitze_IK.R_end
+    400066: hauptbone
+    400068: Hemi
+    400070: koerper_halz
+    400072: koerper_kopf
+    400074: koerper_kopf.IK
+    400076: koerper_kopf.IK_end
+    400078: koerper_kopf_end
+    400080: koerper_mitte
+    400082: Lamp
+    400084: moewe
+    400086: moewe_armature
+    400088: schwanz_spitze
+    400090: schwanz_spitze.IK
+    400092: schwanz_spitze.IK_end
+    400094: schwanz_spitze.L
+    400096: schwanz_spitze.L_end
+    400098: schwanz_spitze.R
+    400100: schwanz_spitze.R_end
+    400102: schwanz_unten
+    400104: shape_fluegel.L
+    400106: shape_fluegel.R
+    400108: shape_fuss
+    400110: shape_gelenk
+    400112: shape_hauptbone
+    400114: shape_koeper
+    400116: shape_kopf
+    400118: shape_schwanz
+    400120: //RootNode
+    2300000: shape_fluegel.L
+    2300002: shape_fluegel.R
+    2300004: shape_fuss
+    2300006: shape_gelenk
+    2300008: shape_hauptbone
+    2300010: shape_koeper
+    2300012: shape_kopf
+    2300014: shape_schwanz
+    3300000: shape_fluegel.L
+    3300002: shape_fluegel.R
+    3300004: shape_fuss
+    3300006: shape_gelenk
+    3300008: shape_hauptbone
+    3300010: shape_koeper
+    3300012: shape_kopf
+    3300014: shape_schwanz
+    4300016: moewe
+    7400000: flying
+    7400002: fly
+    7400004: die
+    9500000: //RootNode
+    13700000: moewe
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: moewe_armature|Untitled
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: moewe
+        weight: 1
+      - path: moewe_armature
+        weight: 1
+      - path: moewe_armature/hauptbone
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.L
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.L/bein_fuss_oben_IK.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.R
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.R/bein_fuss_oben_IK.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.L
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.L/fluegel_spitze_IK.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.R
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.R/fluegel_spitze_IK.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_kopf.IK
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_kopf.IK/koerper_kopf.IK_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_fuss_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_fuss_spitze.L/bein_fuss_spitze.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_gelenk.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_gelenk.L/bein_gelenk.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_fuss_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_fuss_spitze.R/bein_fuss_spitze.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_gelenk.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_gelenk.R/bein_gelenk.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L/fluegel_gelenk.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L/fluegel_gelenk.L/fluegel_gelenk.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R/fluegel_gelenk.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R/fluegel_gelenk.R/fluegel_gelenk.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz/koerper_kopf
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz/koerper_kopf/koerper_kopf_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.L/schwanz_spitze.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.R/schwanz_spitze.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/schwanz_spitze.IK
+        weight: 1
+      - path: moewe_armature/hauptbone/schwanz_spitze.IK/schwanz_spitze.IK_end
+        weight: 1
+      - path: shape_fluegel.L
+        weight: 1
+      - path: shape_fluegel.R
+        weight: 1
+      - path: shape_fuss
+        weight: 1
+      - path: shape_gelenk
+        weight: 1
+      - path: shape_hauptbone
+        weight: 1
+      - path: shape_koeper
+        weight: 1
+      - path: shape_kopf
+        weight: 1
+      - path: shape_schwanz
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 'Act: moewe_flug'
+      firstFrame: 23
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: moewe
+        weight: 1
+      - path: moewe_armature
+        weight: 1
+      - path: moewe_armature/hauptbone
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.L
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.L/bein_fuss_oben_IK.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.R
+        weight: 1
+      - path: moewe_armature/hauptbone/bein_fuss_oben_IK.R/bein_fuss_oben_IK.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.L
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.L/fluegel_spitze_IK.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.R
+        weight: 1
+      - path: moewe_armature/hauptbone/fluegel_spitze_IK.R/fluegel_spitze_IK.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_kopf.IK
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_kopf.IK/koerper_kopf.IK_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_fuss_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_fuss_spitze.L/bein_fuss_spitze.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_gelenk.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.L/bein_mitte.L/bein_fuss_oben.L/bein_gelenk.L/bein_gelenk.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_fuss_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_fuss_spitze.R/bein_fuss_spitze.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_gelenk.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/bein_oben.R/bein_mitte.R/bein_fuss_oben.R/bein_gelenk.R/bein_gelenk.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L/fluegel_gelenk.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.L/fluegel_mitte.L/fluegel_spitze.L/fluegel_gelenk.L/fluegel_gelenk.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R/fluegel_gelenk.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/fluegel_oben.R/fluegel_mitte.R/fluegel_spitze.R/fluegel_gelenk.R/fluegel_gelenk.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz/koerper_kopf
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/koerper_halz/koerper_kopf/koerper_kopf_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.L
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.L/schwanz_spitze.L_end
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.R
+        weight: 1
+      - path: moewe_armature/hauptbone/koerper_mitte/schwanz_unten/schwanz_spitze/schwanz_spitze.R/schwanz_spitze.R_end
+        weight: 1
+      - path: moewe_armature/hauptbone/schwanz_spitze.IK
+        weight: 1
+      - path: moewe_armature/hauptbone/schwanz_spitze.IK/schwanz_spitze.IK_end
+        weight: 1
+      - path: shape_fluegel.L
+        weight: 1
+      - path: shape_fluegel.R
+        weight: 1
+      - path: shape_fuss
+        weight: 1
+      - path: shape_gelenk
+        weight: 1
+      - path: shape_hauptbone
+        weight: 1
+      - path: shape_koeper
+        weight: 1
+      - path: shape_kopf
+        weight: 1
+      - path: shape_schwanz
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
